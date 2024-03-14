@@ -25,6 +25,6 @@ The app will be served at `http://localhost:3000`. The page will automatically r
 
 ## Credits
 
-This project was inspired by the FreeCodeCamp community. After learning React.js, try enhancing your skills by building this simple yet useful project - a password generator.
+This project was inspired by the FreeCodeCamp community. After learning React.js, try enhancing my skills by building this simple yet useful project - a password generator.
 
 Happy coding! 🔒
